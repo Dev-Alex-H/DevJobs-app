@@ -1,3 +1,7 @@
+# About this app
+
+This is a frontend mentor challenge. It consists of a fully responsive devjobs web application that uses React. It has a modern user interface and user experience. The app implements autocomplete lookup using react hooks, has the function of looking up data in react, adds data filtering, uses the remixicon library, and has a modern design with CSS3.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
